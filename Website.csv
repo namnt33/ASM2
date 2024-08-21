@@ -1,0 +1,21 @@
+Website_Access_Category_ID,Website_Access_Category_Name,Website_Access_Category_Description,Website_Access_Category_Status,Website_Access_Category_Permission
+1,Public,Content accessible to all website visitors,Active,Open Access
+2,Registered Users,Content accessible to registered users only,Active,Restricted Access
+3,Premium Members,Content accessible to premium members only,Active,Restricted Access
+4,Internal,Content accessible to internal employees only,Active,Limited Access
+5,Partner Organizations,Content accessible to authorized partner organizations,Active,Restricted Access
+6,Government Officials,Content accessible to authorized government officials,Active,Limited Access
+7,Research Collaborators,Content accessible to research collaborators,Active,Restricted Access
+8,Investors,Content accessible to authorized investors,Active,Limited Access
+9,Student Users,Content accessible to student users,Active,Restricted Access
+10,Customer Support,Content accessible to customer support representatives,Active,Limited Access
+11,Technical Staff,Content accessible to technical staff only,Active,Limited Access
+12,Marketing Team,Content accessible to marketing team members,Active,Limited Access
+13,C-Suite Executives,Content accessible to C-suite executives,Active,Restricted Access
+14,Regional Managers,Content accessible to regional managers,Active,Limited Access
+15,Human Resources,Content accessible to HR personnel,Active,Limited Access
+16,Finance Department,Content accessible to finance department staff,Active,Limited Access
+17,Legal Team,Content accessible to legal team members,Active,Limited Access
+18,Product Managers,Content accessible to product managers,Active,Limited Access
+19,Data Analysts,Content accessible to data analysis team,Active,Limited Access
+20,Quality Assurance,Content accessible to quality assurance team,Active,Limited Access

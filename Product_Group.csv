@@ -1,0 +1,21 @@
+Product_Group_ID,Product_Group_Name,Product_Group_Description,Product_Group_Category,Product_Group_Subcategory,Product_Group_Commission_Rate
+1,Smartphones,Premium smartphones from leading brands,Electronics,Mobile Devices,0.10
+2,Headphones,High-quality audio equipment,Electronics,Audio,0.08
+3,Kitchen Appliances,Innovative kitchen tools and gadgets,Home Appliances,Kitchen,0.06
+4,Shoes,Stylish and comfortable footwear,Apparel,Footwear,0.07
+5,Laptops,High-performance computing devices,Electronics,Computers,0.09
+6,Lighting,Smart and energy-efficient lighting solutions,Home Decor,Lighting,0.05
+7,Wearables,Advanced fitness and health tracking devices,Electronics,Wearables,0.08
+8,Vacuums,Powerful and efficient cleaning solutions,Home Appliances,Cleaning,0.06
+9,Gaming Consoles,Cutting-edge gaming platforms,Electronics,Gaming,0.08
+10,Cameras,Professional-grade photography equipment,Electronics,Cameras,0.09
+11,Fitness Equipment,Premium exercise and workout gear,Home Appliances,Fitness,0.07
+12,TVs,High-end displays for immersive entertainment,Electronics,Home Entertainment,0.08
+13,Espresso Machines,Specialty coffee brewing equipment,Home Appliances,Kitchen,0.06
+14,2-in-1 Tablets,Versatile computing devices,Electronics,Computers,0.09
+15,DSLR Cameras,Advanced digital cameras for photographers,Electronics,Cameras,0.09
+16,Smart Home,Innovative connected home devices,Home Decor,Home Automation,0.06
+17,Kitchen Gadgets,Useful and creative cooking tools,Home Appliances,Kitchen,0.05
+18,Outdoor Gear,High-quality equipment for outdoor activities,Apparel,Outdoor,0.07
+19,Beauty Appliances,Premium personal care devices,Home Appliances,Beauty,0.06
+20,Home Theater,Premium audio and visual equipment,Electronics,Home Entertainment,0.08

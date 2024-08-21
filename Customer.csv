@@ -1,0 +1,21 @@
+Customer_ID,Customer_Name,Customer_Email,Customer_Phone,Customer_Address,Customer_City,Customer_State,Customer_Zip,Customer_Country,Customer_Registration_Date,Customer_Segment
+1,John Doe,john.doe@email.com,555-1234-5678,123 Main St,New York,NY,10001,USA,2020-05-15,Premium
+2,Jane Smith,jane.smith@email.com,555-9876-5432,456 Oak Rd,Los Angeles,CA,90001,USA,2021-03-01,Regular
+3,Michael Johnson,michael.johnson@email.com,555-2468-1357,789 Pine Blvd,Chicago,IL,60601,USA,2019-11-20,Premium
+4,Emily Brown,emily.brown@email.com,555-7890-1234,321 Elm St,Houston,TX,77001,USA,2022-06-01,New
+5,David Lee,david.lee@email.com,555-4321-8765,159 Oak Ave,Miami,FL,33001,USA,2020-09-12,Regular
+6,Sarah Davis,sarah.davis@email.com,555-8765-4321,753 Maple Rd,Seattle,WA,98001,USA,2021-02-25,Premium
+7,Tom Wilson,tom.wilson@email.com,555-1357-9024,951 Pine St,Boston,MA,02101,USA,2019-08-10,New
+8,Lily Evans,lily.evans@email.com,555-2469-8013,753 Elm Blvd,Atlanta,GA,30301,USA,2022-03-15,Regular
+9,Robert Anderson,robert.anderson@email.com,555-7890-5432,159 Oak Ln,Dallas,TX,75001,USA,2020-11-08,Premium
+10,Olivia Taylor,olivia.taylor@email.com,555-1234-9876,357 Maple Ave,Denver,CO,80001,USA,2021-05-03,New
+11,Jacob Martinez,jacob.martinez@email.com,555-2468-1357,951 Pine Rd,Portland,OR,97201,USA,2019-12-18,Regular
+12,Isabella Hernandez,isabella.hernandez@email.com,555-7890-1234,753 Elm St,Las Vegas,NV,89001,USA,2022-01-27,Premium
+13,William Gonzalez,william.gonzalez@email.com,555-4321-8765,159 Oak Blvd,San Francisco,CA,94001,USA,2020-06-09,New
+14,Sophia Rodriguez,sophia.rodriguez@email.com,555-8765-4321,951 Pine Ave,San Diego,CA,92001,USA,2021-09-14,Regular
+15,Alexander Diaz,alexander.diaz@email.com,555-1357-9024,357 Maple St,Phoenix,AZ,85001,USA,2019-10-22,Premium
+16,Emma Gutierrez,emma.gutierrez@email.com,555-2469-8013,753 Elm Rd,San Antonio,TX,78001,USA,2022-04-05,New
+17,Daniel Morales,daniel.morales@email.com,555-7890-5432,159 Oak Dr,Nashville,TN,37201,USA,2020-12-03,Regular
+18,Ava Ramirez,ava.ramirez@email.com,555-1234-9876,951 Pine Ln,Washington,DC,20001,USA,2021-08-19,Premium
+19,Lucas Santana,lucas.santana@email.com,555-2468-1357,753 Elm Ave,Philadelphia,PA,19101,USA,2019-07-28,New
+20,Mia Jimenez,mia.jimenez@email.com,555-7890-1234,159 Oak St,Charlotte,NC,28201,USA,2022-02-11,Regular

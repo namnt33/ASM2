@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Product_Description,Product_Category,Product_Subcategory,Product_Brand,Product_Price,Product_Cost,Product_Inventory,Product_Image,Product_Status
+1,iPhone 13 Pro,Latest flagship smartphone from Apple,Electronics,Smartphones,Apple,999.99,649.99,500,iphone13pro.jpg,Active
+2,Samsung Galaxy S21 Ultra,Premium flagship smartphone from Samsung,Electronics,Smartphones,Samsung,1199.99,799.99,300,galaxys21ultra.jpg,Active
+3,Sony WH-1000XM4,Wireless noise-canceling headphones,Electronics,Headphones,Sony,349.99,199.99,800,wh1000xm4.jpg,Active
+4,Instant Pot Duo,Multi-function pressure cooker,Home Appliances,Kitchen Appliances,Instant Pot,79.99,49.99,1000,instantpotduo.jpg,Active
+5,Nike Air Force 1 '07,Classic sneakers,Apparel,Shoes,Nike,99.99,59.99,400,airforce1.jpg,Active
+6,Apple MacBook Pro 16-inch,High-performance laptop,Electronics,Laptops,Apple,2499.99,1799.99,200,macbookpro16.jpg,Active
+7,Philips Hue Smart Bulb,Color-changing smart light bulb,Home Decor,Lighting,Philips,49.99,29.99,600,huebulb.jpg,Active
+8,Fitbit Charge 5,Advanced fitness tracker,Electronics,Wearables,Fitbit,149.99,99.99,300,fitbitcharge5.jpg,Active
+9,Dyson V15 Detect,Cordless vacuum cleaner,Home Appliances,Vacuums,Dyson,699.99,449.99,150,dysonv15.jpg,Active
+10,Nintendo Switch OLED,Latest Nintendo gaming console,Electronics,Gaming,Nintendo,349.99,259.99,400,switcholed.jpg,Active
+11,Bose QuietComfort 45,Noise-canceling headphones,Electronics,Headphones,Bose,329.99,199.99,600,quietcomfort45.jpg,Active
+12,Cuisinart Air Fryer Toaster Oven,Multifunctional kitchen appliance,Home Appliances,Kitchen Appliances,Cuisinart,199.99,129.99,300,airfryertoaster.jpg,Active
+13,Sennheiser HD 6XX,High-fidelity open-back headphones,Electronics,Headphones,Sennheiser,219.99,149.99,400,hd6xx.jpg,Active
+14,Adidas Ultraboost 21,Performance running shoes,Apparel,Shoes,Adidas,179.99,99.99,250,ultraboost21.jpg,Active
+15,Garmin Forerunner 945,Advanced GPS running watch,Electronics,Wearables,Garmin,599.99,399.99,150,forerunner945.jpg,Active
+16,Breville Barista Express,Espresso machine with grinder,Home Appliances,Kitchen Appliances,Breville,599.99,399.99,200,baristae ress.jpg,Active
+17,Microsoft Surface Pro 8,Flagship 2-in-1 tablet,Electronics,Laptops,Microsoft,1099.99,799.99,100,surfacepro8.jpg,Active
+18,Nikon D850,Professional DSLR camera,Electronics,Cameras,Nikon,2999.99,1999.99,75,nikond850.jpg,Active
+19,Peloton Bike+,Premium connected exercise bike,Home Appliances,Fitness Equipment,Peloton,2495.00,1795.00,50,pelotonbike.jpg,Active
+20,LG CX OLED TV,High-end 4K OLED smart TV,Electronics,TVs,LG,1499.99,999.99,100,lgcxoled.jpg,Active
